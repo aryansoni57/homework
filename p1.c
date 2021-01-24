@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("name and bio\n\n");
+    printf("Aryan Soni\n1st sem\n");
     return 0;
 }
